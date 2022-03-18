@@ -5,7 +5,7 @@ import { LatestOrders } from "../components/dashboard/latestOrders";
 import { LatestProducts } from "../components/dashboard/latestProducts";
 import { Sales } from "../components/dashboard/sales";
 import { TasksProgress } from "../components/dashboard/tasksProgress";
-import { TotalCustomers } from "../components/dashboard/totalCustomers";
+import { TotalCustomers } from "../components/dashboard/totalcustomers";
 import { TotalProfit } from "../components/dashboard/totalProfit";
 import { TrafficByDevice } from "../components/dashboard/trafficByDevice";
 import { DashboardLayout } from "../components/dashboard/dashboardLayout";
